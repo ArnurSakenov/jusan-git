@@ -31,7 +31,7 @@ int main(){`
 Ниже найдете список ссылоек для связки с автором.
 | Платформа |Ссылка | Отвечу за |
 | :---      |:----: |:--        |
-| Почта     | [Ссылка] (https://guides.hexlet.io/ru/markdown/) | 24 часа   |
-| Linkedin  | [Ссылка] (https://guides.hexlet.io/ru/markdown/) | 3 часа    |
-| WhatsApp  | [Ссылка] (https://guides.hexlet.io/ru/markdown/) | 30 минут  |
-| Telegram  | [Ссылка] (https://guides.hexlet.io/ru/markdown/) | 5 минут   |
+| Почта     | [Ссылка](https://guides.hexlet.io/ru/markdown/) | 24 часа   |
+| Linkedin  | [Ссылка](https://guides.hexlet.io/ru/markdown/) | 3 часа    |
+| WhatsApp  | [Ссылка](https://guides.hexlet.io/ru/markdown/) | 30 минут  |
+| Telegram  | [Ссылка](https://guides.hexlet.io/ru/markdown/) | 5 минут   |
