@@ -1,1 +1,1 @@
-Данный репозиторий содержит скрипт для вывода моего ID на stepik.org
+This repository contains a script to display my ID on stepik.org
