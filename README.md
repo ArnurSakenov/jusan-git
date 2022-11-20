@@ -21,9 +21,10 @@ class Main {
 На С++
 ```c++
 #include <iostream> 
+
 using namespace std;
 
-int main(){`
+int main(){
     cout << 777 << endl;
     return 0
 }
