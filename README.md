@@ -1,4 +1,4 @@
-# stepik-id-printer 
+# **stepik-id-printer** 
 Этот проект для вывода моего персонального идентификатора на *образовательной платформе* `stepik.org`
 ## Возможности 
 Данный проект имеет следующий функционал.
@@ -13,7 +13,7 @@
 На Java
 ```java
 class Main {
-    public static void main(String[]args){
+    public static void main(String[] args){
         System.out.println("777");
     }
 }
